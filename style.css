@@ -1,8 +1,8 @@
 html {
-  background-color: #f654ae;
+  background-color: #9254f6;
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23ffffff' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
   background-size: 3px;
-  font-family: Arial, sans-serif;
+  font-family: Monaco, 'Times New Roman', Times, sans-serif;
   }
   
   *,
@@ -53,6 +53,7 @@ html {
   
   .options li {
     background: white;
+    font-size: 26px;
     list-style: none;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.16);
     margin: 0;
