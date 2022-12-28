@@ -1,3 +1,3 @@
 # Simple search Moscow subway station on vanilla js
 
-![sc]('./img/sc.png')
+![alt text](/img/sc.png)
